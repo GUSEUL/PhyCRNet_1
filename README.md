@@ -13,7 +13,6 @@ PhyCRNet is a deep learning model that incorporates physical laws to simulate an
 
 ```
 .
-├── phycrnet.py      # Main model implementation
 ├── train.py         # Training and validation code
 ├── data.py          # Data loader and preprocessing
 ├── losses.py        # Loss function implementation
