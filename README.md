@@ -12,12 +12,11 @@ PhyCRNet is a deep learning model that incorporates physical laws to simulate an
 ## Project Structure
 
 ```
-.
-├── train.py         # Training and validation code
-├── data.py          # Data loader and preprocessing
-├── losses.py        # Loss function implementation
-├── models.py        # Neural network architecture
-└── utils.py         # Utility functions
+train.py         # Training and validation code
+data.py          # Data loader and preprocessing
+losses.py        # Loss function implementation
+models.py        # Neural network architecture
+utils.py         # Utility functions
 ```
 
 ## Installation
@@ -25,6 +24,8 @@ PhyCRNet is a deep learning model that incorporates physical laws to simulate an
 1. Install required packages:
 ```bash
 pip install torch numpy matplotlib scipy
+or
+pip install -r requirement.txt
 ```
 
 2. Dataset preparation:
