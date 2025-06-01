@@ -1,7 +1,4 @@
 # PhyCRNet: Physics-Constrained Recurrent Neural Network
-
-PhyCRNet is a deep learning model that incorporates physical laws to simulate and predict natural convection phenomena. Based on Convolutional LSTM architecture, it integrates physical laws into the loss function to achieve more accurate and physically consistent predictions.
-
 ## Key Features
 
 - **Physics-Informed Learning**: Integration of physical laws (continuity, momentum, and energy equations) into the loss function
